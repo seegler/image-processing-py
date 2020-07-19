@@ -2,4 +2,4 @@
 
 **Basic Image Operations in Cv2 and PIL**
 
-* See [exercise](exercise)
+* See [exercise](exercise/Image-Processing-Execise-1.md))
